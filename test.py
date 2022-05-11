@@ -1,4 +1,4 @@
-student = ['Duy Anh','Mai Trang','Thuy Linh','Quoc Khanh']
+student = ['Duc Phuc','Erik','Hoa Minzy']
 
 for s in student:
     print(s)
